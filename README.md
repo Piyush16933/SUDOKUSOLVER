@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/dhhruv/Sudoku-Solver/blob/master/assets/thumbnail.png" width="256" height="256">
+  <img src="https://github.com/Piyush16933/SUDOKUSOLVER/blob/master/thumbnail.png" width="256" height="256">
   <h2 align="center" style="margin-top: -4px !important;">Sudoku Solver: A Fun and Challenging Way to Exercise Your Brain!</h2>
   <p align="center">
     <a href="https://github.com/dhhruv/Sudoku-Solver/blob/master/LICENSE">
